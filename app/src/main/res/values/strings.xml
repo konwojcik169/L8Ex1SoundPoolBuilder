@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoundPool Builder</string>
+    <string name="imageView1">bugle</string>
+    <string name="imageView2">flute</string>
+</resources>
